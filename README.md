@@ -8,7 +8,5 @@ Display movie choices and seats in a theater to select and purchase tickets
 - User can select a movie/price
 - User can select/deselect seats
 - User can not select occupied seats
-- Number of seats and price will update
-- Save seats, movie and price to local storage so that UI is still populated on refresh
-
-Design inspiration from [Dribbble](https://dribbble.com/shots/3628370-Movie-Seat-Booking)
+- Number of seats and price will automatically update
+- Save seats, movie and price to local storage so that UI is still display after refresh
